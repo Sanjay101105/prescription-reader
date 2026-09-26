@@ -688,6 +688,18 @@ body {
   font-size: 0.88rem;
 }
 
+.footer-credit {
+  font-size: 0.95rem;
+  font-weight: 500;
+  color: var(--text-main);
+  margin-top: 0.45rem;
+}
+
+.footer-credit .dev-name {
+  color: var(--primary);
+  font-weight: 600;
+}
+
 .footer-sub {
   font-size: 0.78rem;
   color: var(--text-light);
